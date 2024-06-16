@@ -1,4 +1,4 @@
-# [Tic Tac Toe Game]()
+# [Tic Tac Toe Game](https://yashs-2519.github.io/Tic-Tac-Toe/)
 
 This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. It allows two players to play the game in a browser.
 
