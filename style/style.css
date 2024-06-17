@@ -119,3 +119,28 @@ h5{
     text-align: center;
     transition: all ease 0.3s;
 }
+
+@media (max-width: 800px) {
+    .box {
+        height: 70vh;
+        width: 90vw;
+        font-size: 2vw;
+    }
+
+    h1{
+        font-size: 10vw;
+        text-align: center;
+        cursor: default;
+    }
+
+    .board{
+        height: 50vh;
+        width: 50vw;
+    }
+
+    h6{
+        font-size: 200%;
+        color: #fff;
+    }
+
+}

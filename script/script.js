@@ -112,7 +112,3 @@ button.addEventListener('click', () =>{
     document.querySelector('h5').innerHTML = `Player ${currentPlayer === playerA ? 'A' : 'B'}'s turn`;
     gamestart();
 })
-
-if (window.innerWidth < 800 || window.innerHeight > window.innerWidth) {
-    document.querySelector('.box').innerHTML = `<p>This website is currently not available for your device, For better experiece please open it on any landscape screen system(laptops, computers etc.)</p>`;
-}
